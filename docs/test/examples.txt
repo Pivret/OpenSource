@@ -1,2 +1,0 @@
-make tilte->your nickname
-make content->your name
